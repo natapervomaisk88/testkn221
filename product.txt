@@ -1,1 +1,2 @@
-Product 1: bread 27
+Product 1: bread 26
+Product 2: milk 23
